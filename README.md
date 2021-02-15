@@ -1,9 +1,9 @@
 ### Hello Everybody I'm Anıl
-## I'am just a Developer
+## I'am a Software Developer
 
-- :smirk_cat: I'am software developer
-- :boar: Trying new things
-- :small_red_triangle: Taking risks
+- :smirk_cat: I am improving myself
+- :boar: i love sharing
+
 
 <br />
 
