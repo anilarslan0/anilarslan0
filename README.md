@@ -1,7 +1,7 @@
-### Hi there,I'm Atakan:man_getting_haircut:
+### Hello Everybody I'm Anıl
 ## I'am just a Developer
 
-- :smirk_cat: I'am currently learning everything
+- :smirk_cat: I'am software developer
 - :boar: Trying new things
 - :small_red_triangle: Taking risks
 
