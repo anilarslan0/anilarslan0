@@ -11,7 +11,7 @@
 
 
 [<img align="left" alt="anilarslan0 | LinkedIn" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_24x24.png" />][linkedin]
-[<img align="left" alt="anilarslan0 | Medium" width="22px" src="https://anlarsln0.medium.com/" />][linkedin]
+
 
 
 <br />
