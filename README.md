@@ -2,7 +2,7 @@
 ## I'am a Software Developer
 
 - :computer: I am improving myself
-- :closed_book: i love sharing
+- :closed_book:  i love sharing
 
 
 <br />
